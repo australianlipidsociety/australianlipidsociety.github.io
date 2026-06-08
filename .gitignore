@@ -1,0 +1,13 @@
+# Hugo build output
+/public/
+/resources/
+/.hugo_build.lock
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+
+# OS files
+.DS_Store
+Thumbs.db

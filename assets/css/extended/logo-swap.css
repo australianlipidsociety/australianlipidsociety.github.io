@@ -1,0 +1,117 @@
+css
+
+/* Header logo swap */
+
+/* Light mode: standard logo */
+.logo img {
+  content: url('/als-transparent-lightmode.png');
+}
+
+/* Dark mode: swap to the white-text version */
+html[data-theme="dark"] .logo img {
+  content: url('/als-transparent-darkmode.png');
+}
+
+
+
+
+
+/* Hero logo (large logo on landing page) */
+
+.hero-logo {
+  margin: 2rem 0;
+}
+
+.hero-logo img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+html[data-theme="dark"] .hero-logo img {
+  content: url('/als-transparent-darkmode.png');
+}
+
+
+
+/* committee member images */
+.committee-member {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.committee-member img {
+  flex-shrink: 0;
+}
+
+.committee-text {
+  flex: 1;
+  min-width: 200px;
+}
+
+
+/* committee member images */
+
+.speaker {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.speaker img {
+  flex-shrink: 0;
+}
+
+.speaker-text {
+  flex: 1;
+  min-width: 250px;
+}
+
+
+/* sponsor  images */
+
+
+.sponsor {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.sponsor img {
+  flex-shrink: 0;
+  max-width: 200px;
+  height: auto;
+}
+
+.sponsor-text {
+  flex: 1;
+  min-width: 200px;
+}
+
+/* Match homepage background to regular pages */
+.first-entry {
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+}
+
+/* Match list-template body (homepage) background to regular pages */
+body.list {
+  background: var(--theme);
+}
+
+
+/* Add top spacing to homepage to match regular pages */
+body.list .main {
+  padding-top: 50px;
+}

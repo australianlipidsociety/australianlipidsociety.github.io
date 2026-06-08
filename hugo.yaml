@@ -1,0 +1,80 @@
+baseURL: "https://australianlipidsociety.github.io/"
+languageCode: "en-au"
+title: "Australian Lipid Society"
+theme: "hugo-PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  env: production
+  title: "Australian Lipid Society"
+  description: "Advancing the science of lipid biology and biochemistry in Australia."
+  author: "Australian Lipid Society Inc."
+  defaultTheme: auto
+  mainSections:
+    - posts
+  label:
+    text: "Australian Lipid Society"
+    icon: /als-transparent-lightmode.png
+    iconHeight: 35
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: committee
+      name: Committee
+      url: /committee/
+      weight: 20
+    - identifier: announcements
+      name: Announcements
+      url: /announcements/
+      weight: 30
+    - identifier: events
+      name: Events
+      url: /events/
+      weight: 40
+    - identifier: constitution
+      name: Constitution
+      url: /constitution/
+      weight: 50
+    - identifier: membership
+      name: Become a Member
+      url: /membership/
+      weight: 60
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 70
+
+
