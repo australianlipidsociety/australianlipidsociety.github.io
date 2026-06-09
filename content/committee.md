@@ -63,7 +63,7 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 ### General Members
 
 <div class="committee-member">
-<img src="/images/committee/gray.jpg" alt="Nicola Gray" width="180" style="border-radius: 50%;">
+<img src="/images/committee/gray.png" alt="Nicola Gray" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
 **Nicola Gray** — General Committee Member  
@@ -73,7 +73,7 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 </div>
 
 <div class="committee-member">
-<img src="/images/committee/roberts.jpg" alt="Jayden Roberts" width="180" style="border-radius: 50%;">
+<img src="/images/committee/roberts.png" alt="Jayden Roberts" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
 **Jayden Roberts** — General Committee Member  
