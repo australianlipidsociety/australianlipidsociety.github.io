@@ -22,7 +22,7 @@ The committee can be contacted at australianlipidsociety@gmail.com
 <img src="/images/committee/whiley.jpg" alt="Luke Whiley" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Dr Luke Whiley** - President  
+**Luke Whiley** - President  
 *Curtin University, Perth, Western Australia*
 
 </div>
@@ -32,7 +32,7 @@ The committee can be contacted at australianlipidsociety@gmail.com
 <img src="/images/committee/giles.jpg" alt="Corey Giles" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Dr Corey Giles** - Vice-President  
+**Corey Giles** - Vice-President  
 *Baker Heart and Diabetes Institute, Melbourne, Victoria*
 
 </div>
@@ -52,7 +52,7 @@ The committee can be contacted at australianlipidsociety@gmail.com
 <img src="/images/committee/ryan.png" alt="Monique Ryan" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Dr Monique Ryan** - Treasurer  
+**Monique Ryan** - Treasurer  
 *Murdoch University, Perth, Western Australia*
 
 </div>
