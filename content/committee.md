@@ -42,7 +42,7 @@ The committee can be contacted at australianlipidsociety@gmail.com
 <img src="/images/committee/hicks.png" alt="Dana Hicks" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Dr Dana Hicks** - Secretary  
+**Dana Hicks** - Secretary  
 *Murdoch University, Perth, Western Australia*
 
 </div>
