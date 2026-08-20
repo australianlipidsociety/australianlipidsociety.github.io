@@ -16,7 +16,7 @@ The Australian Lipid Society's flagship event is the **Australian Lipid Meeting 
 
 ### Australian Lipid Meeting 7 & 5th International Lipidomics Society Conference
 
-![ALM7 and 5th iLS Conference banner](/images/meeting-banner.png)
+![ALM7 and 5th iLS Conference banner](/images/invitedSpeakersPoster_v5.png)
 
 **18–21 October 2026 | Novotel Perth Langley, Perth, Western Australia**
 
@@ -143,6 +143,25 @@ Shane Ellis received his PhD in 2013 from the University of Wollongong, followed
 Hiroshi Tsugawa is a Professor at the Graduate School of Pharmaceutical Sciences, Kyoto University. He is a researcher in metabolomics, lipidomics, and mass spectrometry–based bioinformatics, with a strong focus on developing computational methodologies to decipher the complexity of metabolic systems. Dr. Tsugawa is best known as the lead developer of MS-DIAL, one of the most widely used open-source platforms for untargeted metabolomics and lipidomics. His contributions have significantly advanced the field by enabling high-throughput, high-accuracy annotation of small molecules from mass spectrometry data. His software and methodological papers have been cited extensively, supporting a global community of researchers in systems biology, analytical chemistry, and biomedical sciences.
 
 He received his Ph.D. in Biotechnology from Osaka University in 2012 and subsequently conducted postdoctoral research at RIKEN, where he developed foundational technologies in computational metabolomics. He later served as Associate Professor and Professor at Tokyo University of Agriculture and Technology before moving to Kyoto University in April 2026. His research integrates analytical chemistry, bioinformatics, and biology to uncover metabolic diversity and its functional roles in health and disease. He has contributed to major international efforts in metabolomics data standardization and FAIR data principles, including activities in the International Metabolomics Society.
+
+</details>
+
+</div>
+</div>
+
+<div class="speaker">
+<img src="/images/speakers/bindila.jpg" alt="Laura Bindila" width="180" style="border-radius: 50%;">
+<div class="speaker-text">
+
+**Dr Laura Bindila**  
+*Head of the Clinical Lipidomics Unit, University Medical Center Mainz, Germany*
+
+<details>
+<summary>Read bio</summary>
+
+Laura Bindila received her PhD in Physics in 2006 with Summa cum Laude from Babes-Bolyai University, Clubj Napoca, Romania. She carried out her PhD project and postdoctoral phase at the Institute for Medical Physics and Biophysics Münster, where she focused on development and application hyphenated mass spectrometry methods for glycolipids analysis. She then took a scientist position at the Clinical Proteomics Laboratory at the Center for Public Research in Luxembourg where her she focused on glycoproteomics.
+Since 2012 she is heading the Lipidomics research group and the Lipidomics Core Facility which she established in 2015 at the Institute of Physiological Chemistry, University Medical Center of Mainz. Her research is focused on the lipid signalling and lipidome dynamic with diseases in particular in cardiovascular, infections
+and neurological diseases. Since 2020 she is PI at the Mainz Research Center Mass Spectrometry (DIASyM). She also serves as PI at the TransMed program and DZHK. Since 2020 she acts as Editor for Rapid Communication in Mass Spectrometry. Since 2006, she has been a member of the organising committee and a lecturer at the School for Mass Spectrometry in Biotechnology and Medicine.
 
 </details>
 
