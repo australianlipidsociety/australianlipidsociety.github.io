@@ -1,6 +1,6 @@
 ---
 title: "Sponsors Announced for ALM7 & 5th iLS Conference"
-date: 2026-04-15
+date: 2026-08-20
 summary: "Industry partners confirmed across Platinum, Gold, Silver, and Bronze tiers, with additional support for ECR awards."
 weight: 10
 ---
@@ -38,6 +38,36 @@ We gratefully acknowledge the sponsors and industry partners supporting the Aust
 <div class="sponsor-text">
 
 **Bruker**  
+*Silver Sponsor*
+
+</div>
+</div>
+
+<div class="sponsor">
+<img src="/images/sponsors/waters.png" alt="Waters">
+<div class="sponsor-text">
+
+**Waters**  
+*Silver Sponsor*
+
+</div>
+</div>
+
+<div class="sponsor">
+<img src="/images/sponsors/trajan.png" alt="Trajan">
+<div class="sponsor-text">
+
+**Trajan**  
+*Silver Sponsor*
+
+</div>
+</div>
+
+<div class="sponsor">
+<img src="/images/sponsors/ansto.png" alt="ANSTO National Deuteration Facility">
+<div class="sponsor-text">
+
+**ANSTO National Deuteration Facility**  
 *Silver Sponsor*
 
 </div>
