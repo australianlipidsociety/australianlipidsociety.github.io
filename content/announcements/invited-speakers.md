@@ -116,5 +116,24 @@ He received his Ph.D. in Biotechnology from Osaka University in 2012 and subsequ
 </div>
 </div>
 
+<div class="speaker">
+<img src="/images/speakers/bindila.jpg" alt="Laura Bindila" width="180" style="border-radius: 50%;">
+<div class="speaker-text">
 
-Further speakers will be announced over the coming months. For full speaker bios and conference details, visit the [Events page](/events/).
+**Dr Laura Bindila**  
+*Head of the Clinical Lipidomics Unit, University Medical Center Mainz, Germany*
+
+<details>
+<summary>Read bio</summary>
+
+Laura Bindila received her PhD in Physics in 2006 with Summa cum Laude from Babes-Bolyai University, Clubj Napoca, Romania. She carried out her PhD project and postdoctoral phase at the Institute for Medical Physics and Biophysics Münster, where she focused on development and application hyphenated mass spectrometry methods for glycolipids analysis. She then took a scientist position at the Clinical Proteomics Laboratory at the Center for Public Research in Luxembourg where her she focused on glycoproteomics.
+Since 2012 she is heading the Lipidomics research group and the Lipidomics Core Facility which she established in 2015 at the Institute of Physiological Chemistry, University Medical Center of Mainz. Her research is focused on the lipid signalling and lipidome dynamic with diseases in particular in cardiovascular, infections
+and neurological diseases. Since 2020 she is PI at the Mainz Research Center Mass Spectrometry (DIASyM). She also serves as PI at the TransMed program and DZHK. Since 2020 she acts as Editor for Rapid Communication in Mass Spectrometry. Since 2006, she has been a member of the organising committee and a lecturer at the School for Mass Spectrometry in Biotechnology and Medicine.
+
+</details>
+
+</div>
+</div>
+
+
+For full speaker bios and conference details, visit the [Events page](/events/).
