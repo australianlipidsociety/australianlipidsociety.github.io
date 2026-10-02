@@ -16,7 +16,7 @@ The Australian Lipid Society's flagship event is the **Australian Lipid Meeting 
 
 ### Australian Lipid Meeting 7 & 5th International Lipidomics Society Conference
 
-![ALM7 and 5th iLS Conference banner](/images/invitedSpeakersPoster_v5.png)
+![ALM7 and 5th iLS Conference banner](/images/invitedSpeakersPoster_v7.png)
 
 **18–21 October 2026 | Novotel Perth Langley, Perth, Western Australia**
 
