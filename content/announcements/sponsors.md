@@ -73,6 +73,16 @@ We gratefully acknowledge the sponsors and industry partners supporting the Aust
 </div>
 </div>
 
+<div class="sponsor">
+<img src="/images/sponsors/thermo.png" alt="Thermo Fisher Scientific">
+<div class="sponsor-text">
+
+**Thermo Fisher Scientific**  
+*Silver Sponsor*
+
+</div>
+</div>
+
 ### Bronze
 
 <div class="sponsor">
