@@ -172,8 +172,8 @@ and neurological diseases. Since 2020 she is PI at the Mainz Research Center Mas
 
 ### Key Dates
 
-- **Oral abstract submission deadline:** 10 July 2026
-- **Early-bird registration closes:** 7 August 2026
+- **Oral abstract submission deadline:** NOW CLOSED
+- **Early-bird registration closes:** NOW CLOSED
 - **Conference:** 18–21 October 2026
 
 ---
@@ -182,7 +182,7 @@ and neurological diseases. Since 2020 she is PI at the Mainz Research Center Mas
 
 Registration and abstract submission are managed through the conference platform. Members of the International Lipidomics Society may be eligible for an additional discount — contact the iLS Secretary for details. Delegates from low- and middle-income countries may qualify for LMIC pricing.
 
-[**Register or submit an abstract →**](https://meetinghand.com/e/alm-ils-2026/)
+[**Register or submit an abstract →**](https://meetinghand.com/e/alm-ils-2026/) NOW CLOSED
 
 ---
 
@@ -190,7 +190,7 @@ Registration and abstract submission are managed through the conference platform
 
 The **iLS Early Career Travel Award** supports students and early-career researchers in attending the conference, with individual grants of up to €2,000 to help cover travel, accommodation, and registration. Applicants must be iLS members.
 
-[Learn more about the iLS Early Career Travel Award →](https://lipidomicssociety.org/ils-early-career-travel-award/)
+[Learn more about the iLS Early Career Travel Award →](https://lipidomicssociety.org/ils-early-career-travel-award/) NOW CLOSED
 
 ---
 
