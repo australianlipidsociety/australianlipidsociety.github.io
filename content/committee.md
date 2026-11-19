@@ -49,7 +49,7 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 </div>
 
 <div class="committee-member">
-<img src="/images/committee/qi.jpg" alt="Jacob Qi" width="180" style="border-radius: 50%;">
+<img src="/images/committee/qi.png" alt="Jacob Qi" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
 **Jacob Qi** - Treasurer  
