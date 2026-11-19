@@ -10,7 +10,7 @@ hidemeta: true
 
 <h2 style="text-align: center;">Committee</h2>
 
-The Australian Lipid Society is governed by a management committee comprising four office holders - President, Vice-President, Secretary, and Treasurer - and up to two general committee members, elected by the membership at the Annual General Meeting. The current committee was elected at the Society's inaugural AGM in February 2026.
+The Australian Lipid Society is governed by a management committee comprising four office holders - President, Vice-President, Secretary, and Treasurer - and up to two general committee members, elected by the membership at the Annual General Meeting. The current committee was elected at the Society's inaugural AGM held in October 2026.
 
 The committee can be contacted at <australianlipidsociety@gmail.com>.
 
