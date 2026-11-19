@@ -29,11 +29,11 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 </div>
 
 <div class="committee-member">
-<img src="/images/committee/giles.jpg" alt="Corey Giles" width="180" style="border-radius: 50%;">
+<img src="/images/committee/don.jpg" alt="Anthony Don" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Corey Giles** - Vice-President  
-*Baker Heart and Diabetes Institute, Melbourne, Victoria*
+**Anthony Don** - Vice-President  
+*University of Sydney, New South Wales*
 
 </div>
 </div>
@@ -49,11 +49,11 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 </div>
 
 <div class="committee-member">
-<img src="/images/committee/ryan.png" alt="Monique Ryan" width="180" style="border-radius: 50%;">
+<img src="/images/committee/qi.jpg" alt="Jacob Qi" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Monique Ryan** - Treasurer  
-*Murdoch University, Perth, Western Australia*
+**Jacob Qi** - Treasurer  
+*Heart Research Institute, Sydney, New South Wales*
 
 </div>
 </div>
@@ -63,21 +63,21 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 ### General Members
 
 <div class="committee-member">
-<img src="/images/committee/gray.png" alt="Nicola Gray" width="180" style="border-radius: 50%;">
+<img src="/images/committee/ryan.png" alt="Monique Ryan" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Nicola Gray** - General Committee Member  
+**Monique Ryan** - General Committee Member  
 *Murdoch University, Perth, Western Australia*
 
 </div>
 </div>
 
 <div class="committee-member">
-<img src="/images/committee/roberts.png" alt="Jayden Roberts" width="180" style="border-radius: 50%;">
+<img src="/images/committee/huynh.jpg" alt="Kevin Huynh" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Jayden Roberts** - General Committee Member  
-*University of Notre Dame Australia, Perth, Western Australia*
+**Kevin Huynh** - General Committee Member  
+*Baker Heart and Diabetes Institute, Melbourne, Victoria*
 
 </div>
 </div>
@@ -104,6 +104,17 @@ For details, see the [Events page](/events/) or the [conference website](https:/
 
 ---
 
+### Past Committee Members
+
+We would like to acknowledge the efforts of past committee members in shaping the Society:
+
+- **Dr Corey Giles**, Vice-President (2026)
+- **Dr Nicola Gray**, General Member (2026)
+- **Dr Jayden Roberts**, General Member (2026)
+
+
+---
+
 ### Term of Office
 
 Committee terms align with the Australian Lipid Meeting (ALM) cycle. Each term commences at the closure of an ALM and concludes at the closure of the subsequent meeting, to a maximum of two years. Elections are held at the Annual General Meeting, typically convened in conjunction with the ALM.
@@ -111,3 +122,5 @@ Committee terms align with the Australian Lipid Meeting (ALM) cycle. Each term c
 ---
 
 For governance details, see the [Society's constitution](/constitution/).
+
+---
