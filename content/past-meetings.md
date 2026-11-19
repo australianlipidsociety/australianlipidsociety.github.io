@@ -22,8 +22,8 @@ The Australian Lipid Meeting (ALM) grew out of an informal national network of l
 | ALM2 | To be confirmed | To be confirmed | To be confirmed | |
 | ALM3 | 2016 (21-22 November) | Melbourne | A/Prof Peter Meikle | Hosted by the Baker Heart and Diabetes Institute |
 | ALM4 | To be confirmed | To be confirmed | To be confirmed | |
-| ALM5 | To be confirmed | Adelaide (to be confirmed) | To be confirmed | |
-| ALM6 | To be confirmed | Brisbane (to be confirmed) | To be confirmed | |
+| ALM5 | To be confirmed | Adelaide (to be confirmed) | Prof. Maria Fuller | Held at Adelaide Zoo |
+| ALM6 | To be confirmed | Brisbane | Prof. Stephen Blanksby | Hosted by the University of Queensland |
 | ALM7 | 2026 (18-21 October) | Perth | Dr Nicola Gray and Prof Peter Meikle | Held jointly with the 5th International Lipidomics Society Conference. First meeting of the Society |
 
 ---
