@@ -61,7 +61,7 @@ menu:
       url: /announcements/
       weight: 30
     - identifier: upcoming events
-      name: Events
+      name: Upcoming Events
       url: /events/
       weight: 40
     - identifier: past-meetings
