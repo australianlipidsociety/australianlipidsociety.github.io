@@ -2,6 +2,8 @@
 summary: "About the Australian Lipid Society"
 ShowToc: false
 hidemeta: true
+aliases:
+  - /about/
 ---
 
 
