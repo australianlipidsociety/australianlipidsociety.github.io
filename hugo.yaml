@@ -60,10 +60,14 @@ menu:
       name: Announcements
       url: /announcements/
       weight: 30
-    - identifier: events
+    - identifier: upcoming events
       name: Events
       url: /events/
       weight: 40
+    - identifier: past-meetings
+      name: Past Meetings
+      url: /past-meetings/
+      weight: 45
     - identifier: constitution
       name: Constitution
       url: /constitution/
