@@ -16,7 +16,7 @@ The Australian Lipid Society's flagship activity is the **Australian Lipid Meeti
 
 ### ICBL 2027: Harbouring Lipid Innovation
 
-![ICBL 2027 banner](/images/ICBL_poster.pdfs)
+![ICBL 2027 poster](/images/icbl_poster.png)
 
 **19-22 July 2027 | The University of Sydney, Camperdown, New South Wales**
 

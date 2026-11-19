@@ -35,7 +35,7 @@ The Society exists to advance the science of lipid biology and biochemistry, par
 
 ### Next Meeting
 
-![ICBL-ALS 2027 banner](/images/icbl-2027-banner.pdf)
+![ICBL-ALS 2027 banner](/images/icbl-banner.png)
 
 The Society's next conference is the **67th International Conference on the Bioscience of Lipids (ICBL-ALS 2027)**, "Harbouring Lipid Innovation", held jointly with ICBL at the University of Sydney from **19-23 July 2027**. It is the first ICBL to be held in Australia.
 
