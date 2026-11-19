@@ -49,7 +49,7 @@ The Society is open to anyone aged 16 or over who is based in or connected to Au
 
 ### How the Society Works
 
-The Society is governed by a management committee comprising a President, Vice-President, Secretary, and Treasurer, supported by up to two auxiliary members. Committee members are elected by the membership at the Annual General Meeting, held in conjunction with each Australian Lipid Meeting on a two-year cycle.
+The Society is governed by a management committee comprising a President, Vice-President, Secretary, and Treasurer, supported by up to two auxiliary general members. Committee members are elected by the membership at the Annual General Meeting, held in conjunction with each Australian Lipid Meeting on a two-year cycle.
 
 The Society operates strictly as a not-for-profit. All income is applied solely toward the promotion of the Society's objects, and no part of the Society's property or income may be distributed to members.
 
