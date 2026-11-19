@@ -50,7 +50,7 @@ menu:
   main:
     - identifier: about
       name: About
-      url: /about/
+      url: /
       weight: 10
     - identifier: committee
       name: Committee
