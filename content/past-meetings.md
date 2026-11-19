@@ -16,15 +16,15 @@ The Australian Lipid Meeting (ALM) grew out of an informal national network of l
 
 ### Meeting History
 
-| Meeting | Year | Location | Notes |
-|---|---|---|---|
-| ALM1 | To be confirmed | To be confirmed | |
-| ALM2 | To be confirmed | To be confirmed | |
-| ALM3 | 2016 (21-22 November) | Melbourne | Organised by A/Prof Peter Meikle, Baker Heart and Diabetes Institute |
-| ALM4 | To be confirmed | To be confirmed | |
-| ALM5 | To be confirmed | Adelaide (to be confirmed) | |
-| ALM6 | To be confirmed | Brisbane (to be confirmed) | |
-| ALM7 | 2026 (18-21 October) | Perth | Held jointly with the 5th International Lipidomics Society Conference. First meeting of the Society |
+| Meeting | Year | Location | Chair(s) | Notes |
+|---|---|---|---|---|
+| ALM1 | To be confirmed | To be confirmed | To be confirmed | |
+| ALM2 | To be confirmed | To be confirmed | To be confirmed | |
+| ALM3 | 2016 (21-22 November) | Melbourne | A/Prof Peter Meikle | Hosted by the Baker Heart and Diabetes Institute |
+| ALM4 | To be confirmed | To be confirmed | To be confirmed | |
+| ALM5 | To be confirmed | Adelaide (to be confirmed) | To be confirmed | |
+| ALM6 | To be confirmed | Brisbane (to be confirmed) | To be confirmed | |
+| ALM7 | 2026 (18-21 October) | Perth | Dr Nicola Gray and Prof Peter Meikle | Held jointly with the 5th International Lipidomics Society Conference. First meeting of the Society |
 
 ---
 
