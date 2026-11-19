@@ -60,7 +60,7 @@ menu:
       name: Announcements
       url: /announcements/
       weight: 30
-    - identifier: upcoming events
+    - identifier: upcoming-events
       name: Upcoming Events
       url: /events/
       weight: 40
