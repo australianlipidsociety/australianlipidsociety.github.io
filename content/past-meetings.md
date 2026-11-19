@@ -14,23 +14,63 @@ The Australian Lipid Meeting (ALM) grew out of an informal national network of l
 
 ---
 
-  ### Meeting History
+### Meeting History
 
-| Meeting | City | Dates | Venue | Chair(s) | Notes |
-|---|---|---|---|---|---|
-| ALM1 | Melbourne, Vic | 1 February 2013 | bio21 Institute | Dr Thusitha Rupasinghe and Prof. Todd Mitchell | |
-| ALM2 | Wollongong, NSW | 3-5 December 2014 | Innovation Campus, University of Wollongong | Prof. Todd Mitchell | |
-| ALM3 | Melbourne, Vic | 21-22 November 2016 | Baker Heart and Diabetes Institute | Prof. Peter Meikle | |
-| ALM4 | Sydney, NSW | 28-30 November 2018 | Centenary Institute, University of Sydney | Prof. Anthony Don | |
-| ALM5 | Adelaide, SA | 29 November - 1 December 2020 | Adelaide Zoo | Prof. Maria Fuller | |
-| ALM6 | Brisbane, Qld | 30 September - 2 October 2024 | To be confirmed | Prof. Stephen Blanksby | Hosted by the University of Queensland |
-| ALM7 | Perth, WA | 18-21 October 2026 | Novotel Perth Langley | Dr Nicola Gray and Prof. Peter Meikle | Held jointly with the 5th International Lipidomics Society Conference. First meeting of the Society |
+#### ALM7: Perth, WA (2026)
+
+- **Dates:** 18-21 October 2026
+- **Venue:** Novotel Perth Langley
+- **Chair(s):** Dr Nicola Gray and Prof. Peter Meikle
+- **Notes:** Held jointly with the 5th International Lipidomics Society Conference. First meeting of the Society.
+- [Abstract book (PDF)](/documents/abstract-books/alm7-abstract-book.pdf)
+
+#### ALM6: Brisbane, Qld (2024)
+
+- **Dates:** 30 September - 2 October 2024
+- **Venue:** University of Queensland
+- **Chair(s):** Prof. Stephen Blanksby
+- [Abstract book (PDF)](/documents/abstract-books/alm6-abstract-book.pdf)
+
+#### ALM5: Adelaide, SA (2020)
+
+- **Dates:** 29 November - 1 December 2020
+- **Venue:** Adelaide Zoo
+- **Chair(s):** Prof. Maria Fuller
+- [Abstract book (PDF)](/documents/abstract-books/alm5-abstract-book.pdf)
+
+#### ALM4: Sydney, NSW (2018)
+
+- **Dates:** 28-30 November 2018
+- **Venue:** Centenary Institute, University of Sydney
+- **Chair(s):** Prof. Anthony Don
+- [Abstract book (PDF)](/documents/abstract-books/alm4-abstract-book.pdf)
+
+#### ALM3: Melbourne, Vic (2016)
+
+- **Dates:** 21-22 November 2016
+- **Venue:** Baker Heart and Diabetes Institute
+- **Chair(s):** Prof. Peter Meikle
+- [Abstract book (PDF)](/documents/abstract-books/alm3-abstract-book.pdf)
+
+#### ALM2: Wollongong, NSW (2014)
+
+- **Dates:** 3-5 December 2014
+- **Venue:** Innovation Campus, University of Wollongong
+- **Chair(s):** Prof. Todd Mitchell
+- [Abstract book (PDF)](/documents/abstract-books/alm2-abstract-book.pdf)
+
+#### ALM1: Melbourne, Vic (2013)
+
+- **Dates:** 1 February 2013
+- **Venue:** bio21 Institute
+- **Chair(s):** Dr Thusitha Rupasinghe and Prof. Todd Mitchell
+- [Abstract book (PDF)](/documents/abstract-books/alm1-abstract-book.pdf)
 
 ---
 
 ### Help Us Complete the Record
 
-We are compiling an accurate history of every Australian Lipid Meeting, including dates, host cities and organisers. If you attended or helped organise an earlier meeting, or have a program, photos or other records, please email the details to <australianlipidsociety@gmail.com>.
+We are compiling an accurate history of every Australian Lipid Meeting. If you have programs, photos or other records from an earlier meeting, please email them to <australianlipidsociety@gmail.com>.
 
 ---
 
