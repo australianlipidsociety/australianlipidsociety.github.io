@@ -10,7 +10,9 @@ hidemeta: true
 
 <h2 style="text-align: center;">Past Meetings</h2>
 
-The Australian Lipid Meeting (ALM) grew out of an informal national network of lipid researchers, with meetings hosted by different institutions around the country. The Society was incorporated in 2026, and ALM7 in Perth was its first meeting. This page records the meetings that built the Australian lipid science community.
+Although the Australian Lipid Society was formally incorporated in 2026 and launched at ALM7, its foundations were laid much earlier by a dedicated community of lipid researchers who worked to connect and strengthen lipid science across Australia.
+
+The Australian Lipid Meeting (ALM) grew from this informal national network, with meetings hosted by different institutions around the country. This page celebrates the meetings, people and collective effort that built the Australian lipid science community and ultimately led to the formation of the Society.
 
 ---
 
