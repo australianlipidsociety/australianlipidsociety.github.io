@@ -18,7 +18,7 @@ The Australian Lipid Meeting (ALM) grew out of an informal national network of l
 
 #### ALM7: Perth, WA (2026)
 
-- **Dates:** 18-21 October 2026
+- **Dates:** 18-21 October 2026.
 - **Venue:** Novotel Perth Langley
 - **Chair(s):** Dr Nicola Gray and Prof. Peter Meikle
 - **Notes:** Held jointly with the 5th International Lipidomics Society Conference. First meeting of the Society.
