@@ -84,18 +84,23 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 
 ---
 
-### Conference Organising Subcommittee
+### Conference Organising Subcommittee for ICBL 2027
 
-In accordance with clause 9.13 of the constitution, the management committee has appointed a Conference Organising Subcommittee to oversee the planning and delivery of the Australian Lipid Meeting. The subcommittee comprises:
+The Society is supporting the 67th International Conference on the Bioscience of Lipids (ICBL), to be held at the University of Sydney in July 2027. In accordance with clause 9.13 of the constitution, the management committee has appointed a Conference Organising Subcommittee to oversee the planning and delivery of the Meeting. The subcommittee comprises:
 
-- **Peter Meikle** (Co-Chair) - *Baker Heart and Diabetes Institute, Melbourne, Victoria*
-- **Nicola Gray** (Co-Chair) - *Murdoch University, Perth, Western Australia*
-- **Luke Whiley** - *Curtin University, Perth, Western Australia*
-- **Corey Giles** - *Baker Heart and Diabetes Institute, Melbourne, Victoria*
-- **Dana Hicks** - *Murdoch University, Perth, Western Australia*
-- **Monique Ryan** - *Murdoch University, Perth, Western Australia*
-- **Jayden Roberts** - *University of Notre Dame Australia, Perth, Western Australia*
-- **Kevin Huynh** - *Baker Heart and Diabetes Institute, Melbourne, Victoria*
+- **Prof Anthony Don**, University of Sydney (Chair)
+- **A/Prof Jacob Qi**, Heart Research Institute, Sydney (Treasurer)
+- **Dr Bilge Ercan**, University of Sydney (Secretary)
+- **Dr Oana Marian**, University of Sydney (Program)
+- **Dr Tristan Wallis**, University of Queensland (Website)
+- **Prof Thomas Grewal**, University of Sydney
+- **A/Prof Andrew Hoy**, University of Sydney
+- **Dr Luke Whiley**, Curtin University, Perth
+- **Dr Jasmin Galper**, Macquarie University, Sydney
+- **Dr Xiaosuo Wang**, University of Sydney
+- **Karen Denny**, University of Sydney
+
+For details, see the [Events page](/events/) or the [conference website](https://icbl2027.org/).
 
 ---
 
