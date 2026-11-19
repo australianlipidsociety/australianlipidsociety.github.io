@@ -33,13 +33,13 @@ The Society exists to advance the science of lipid biology and biochemistry, par
 
 ### Next Meeting
 
-![ALM7 and 5th iLS Conference banner](/images/meeting-banner.png)
+### Next Meeting
 
-The Society's next conference is the **Australian Lipid Meeting 7 (ALM7)** held jointly with the **5th International Lipidomics Society (iLS) Conference**, taking place **18–21 October 2026** at the Novotel Perth Langley in Perth, Western Australia.
+![ICBL-ALS 2027 banner](/images/icbl-2027-banner.pdf)
 
-This joint event brings together researchers, clinicians, and industry leaders from around the world to share discoveries, foster collaboration, and shape the future of lipid science.
+The Society's next conference is the **67th International Conference on the Bioscience of Lipids (ICBL-ALS 2027)**, "Harbouring Lipid Innovation", held jointly with ICBL at the University of Sydney from **19-23 July 2027**. It is the first ICBL to be held in Australia.
 
-[Visit the conference website →](https://meetinghand.com/e/alm-ils-2026/)
+[Visit the conference website →](https://icbl2027.org/)
 
 ---
 
