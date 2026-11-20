@@ -22,7 +22,7 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 <img src="/images/committee/whiley.jpg" alt="Luke Whiley" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Luke Whiley** - President  
+**Dr. Luke Whiley** - President  
 *Curtin University, Perth, Western Australia*
 
 </div>
@@ -32,7 +32,7 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 <img src="/images/committee/don.jpg" alt="Anthony Don" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Anthony Don** - Vice-President  
+**Prof. Anthony Don** - Vice-President  
 *University of Sydney, New South Wales*
 
 </div>
@@ -52,7 +52,7 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 <img src="/images/committee/qi.png" alt="Jacob Qi" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Jacob Qi** - Treasurer  
+**A/Prof. Jacob Qi** - Treasurer  
 *Heart Research Institute, Sydney, New South Wales*
 
 </div>
@@ -66,7 +66,7 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 <img src="/images/committee/ryan.png" alt="Monique Ryan" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Monique Ryan** - General Committee Member  
+**Dr. Monique Ryan** - General Committee Member  
 *Murdoch University, Perth, Western Australia*
 
 </div>
@@ -76,7 +76,7 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 <img src="/images/committee/huynh.jpg" alt="Kevin Huynh" width="180" style="border-radius: 50%;">
 <div class="committee-text">
 
-**Kevin Huynh** - General Committee Member  
+**Dr. Kevin Huynh** - General Committee Member  
 *Baker Heart and Diabetes Institute, Melbourne, Victoria*
 
 </div>
@@ -88,16 +88,16 @@ The committee can be contacted at <australianlipidsociety@gmail.com>.
 
 The Society is supporting the 67th International Conference on the Bioscience of Lipids (ICBL), to be held at the University of Sydney in July 2027. In accordance with clause 9.13 of the constitution, the management committee has appointed a Conference Organising Subcommittee to oversee the planning and delivery of the Meeting. The subcommittee comprises:
 
-- **Prof Anthony Don**, University of Sydney (Chair)
-- **A/Prof Jacob Qi**, Heart Research Institute, Sydney (Treasurer)
-- **Dr Bilge Ercan**, University of Sydney (Secretary)
-- **Dr Oana Marian**, University of Sydney (Program)
-- **Dr Tristan Wallis**, University of Queensland (Website)
-- **Prof Thomas Grewal**, University of Sydney
-- **A/Prof Andrew Hoy**, University of Sydney
-- **Dr Luke Whiley**, Curtin University, Perth
-- **Dr Jasmin Galper**, Macquarie University, Sydney
-- **Dr Xiaosuo Wang**, University of Sydney
+- **Prof. Anthony Don**, University of Sydney (Chair)
+- **A/Prof. Jacob Qi**, Heart Research Institute, Sydney (Treasurer)
+- **Dr. Bilge Ercan**, University of Sydney (Secretary)
+- **Dr. Oana Marian**, University of Sydney (Program)
+- **Dr. Tristan Wallis**, University of Queensland (Website)
+- **Prof. Thomas Grewal**, University of Sydney
+- **A/Prof. Andrew Hoy**, University of Sydney
+- **Dr. Luke Whiley**, Curtin University, Perth
+- **Dr. Jasmin Galper**, Macquarie University, Sydney
+- **Dr. Xiaosuo Wang**, University of Sydney
 - **Karen Denny**, University of Sydney
 
 For details, see the [Events page](/events/) or the [conference website](https://icbl2027.org/).
